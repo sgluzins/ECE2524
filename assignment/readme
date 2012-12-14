@@ -1,0 +1,16 @@
+1. Why is this assignment relevant to an Intro to Unix course?
+
+I think this would be relevant to an Intro to Unix course because it would implement the use of multiple functions. Since there are many different currencies, the student will have to work with many different things that are not too complex. I believe the assignment would not be too difficult or time consuming. This assignment will also get the student to create a "README" file because he/she will need to specify how they had their code refer to a certain currency.
+
+2. How should points be distributed for this assignment, i.e. what percentages should go to syntax, style, functionality, content, etc. If the solution fails to work at all (fails to compile, or fails to run) how should it be evaluated?
+
+Points should be distributed in a similar fashion as below:
+
+Total: 30
+syntax - 5
+style - 4
+README file - 1
+functionality - 2 for each currency (10 total - 5 to convert to, 5 to convert from)
+
+If the solution fails to work or fails to compile, I believe that some points should be given for effort if it is clear that the student was extemely close or tried (<=15 up to 15 points).
+
